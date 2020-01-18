@@ -18,6 +18,21 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 This repository is my first project done for the Udacity Data Scientist Nanodegree program. I'm going to apply the CRISP-DM process to analyze car accidents in France from 2005-2016. I've chosen this topic as I believe that data and data science can help people to prevent tragedies of any kind and this is only one of the subjects where we can contribute.
 
+For this project I was interested to answer the following questions based on the accidents dataset:
+
+1. When during the day is the highest number of accidents?
+2. Which intersection has the highest number of accidents?
+3. Does safety equipment really help us to survive the accident?
+
+## File Descriptions <a name="files"></a>
+
+There are 3 notebooks available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the thought process for individual steps.
+
+
+## Results<a name="results"></a>
+
+The main findings of the code can be found at the post available [here](insert link when post will be published).
+
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 
 The data for the analysis is here by courtesy of Ahmed Lahlou Mimi, who published it on Kaggle: https://www.kaggle.com/ahmedlahlou/accidents-in-france-from-2005-to-2016. Under that link, you can find more information about that data itself.
