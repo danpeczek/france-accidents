@@ -31,7 +31,7 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](insert link when post will be published).
+The main findings of the code can be found at the post available [here](https://medium.com/@danpeczek/what-can-we-tell-about-car-accidents-18b718b0153).
 
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 
